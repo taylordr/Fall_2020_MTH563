@@ -3,6 +3,10 @@
 Homework 0 will train us to use organize our code, document it, and use GitHub.
 
 
+For help on documentation with Sphinx and Read the docs, see:
+https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html
+
+
 
 Your assignment is to:
 
