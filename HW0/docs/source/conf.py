@@ -62,5 +62,5 @@ html_static_path = ['_static']
 
 
 autodoc_mock_imports = ["django"]
-
+master_doc = 'index'
 

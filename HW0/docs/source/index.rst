@@ -4,13 +4,11 @@
    contain the root `toctree` directive.
 
 Our Collaborative Codebase for Homework 0
-=======================
+=========================================
 
 
 Guide
 ^^^^^
-
-Contents 
 
 .. toctree::
    :maxdepth: 2
