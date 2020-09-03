@@ -7,13 +7,11 @@ Our Collaborative Codebase for Homework 0
 =========================================
 
 
-Guide
-^^^^^
-
 .. toctree::
    :maxdepth: 2
-   :caption: Project Contributors
+   :caption: Contents
 
+   HW0_assignment
    danes_documentation
 
 
