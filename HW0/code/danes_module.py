@@ -1,9 +1,6 @@
-
+# Dane's module contains dane's functions
 
 import numpy as np
-
-
-##
 
 def square_a_number(x):
 	"""
