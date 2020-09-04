@@ -20,6 +20,9 @@ Install module Sphinx for documentation
 
 	conda install -c conda-forge sphinx
 
+and download or clone the github repository
+
+
 
 Step 1 
 ^^^^^^
