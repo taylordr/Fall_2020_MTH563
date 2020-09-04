@@ -28,4 +28,17 @@ def times_by_3(x):
 
 	return 3*x
 
+def times_by_9(x):
+    """
+    Dane's second function.
+
+    Args:
+        x (float): Some number.
+
+    Returns:
+        float: Returns :math:`y=9x`
+    """
+
+    return 9*x    
+
 	
